@@ -16,8 +16,8 @@ Create a [Mailchimp](https://www.mailchimp.com/) account.
 
 
 1. Access your Mailchimp dashboard.
-2. Click on your user icon on the top right.
-3. Click on 'Account' in the dropdown list.
+2. Click on your user icon on the bottom left.
+3. Click on 'Account & billing' in the dropdown list.
 4. Click on the *Extras* dropdown list and then select 'Registered apps'.
 5. Click on the *Register An App* button.
 6. Copy the 'OAuth Callback URL' from your n8n Mailchimp OAuth2 API credentials and paste it in the 'Redirect URI' field of the Mailchimp form.
